@@ -4,6 +4,7 @@
 
 ## GPU Share
 
+* [Now hiring: GPU compute contributors](gpu-share/join.md)
 * [Install the worker](gpu-share/install.md)
 * [FAQ](gpu-share/faq.md)
 

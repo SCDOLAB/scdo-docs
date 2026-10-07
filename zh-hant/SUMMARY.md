@@ -4,6 +4,7 @@
 
 ## GPU 算力共享
 
+* [招募：顯卡運算貢獻者](gpu-share/join.md)
 * [安裝程式](gpu-share/install.md)
 * [常見問題](gpu-share/faq.md)
 
