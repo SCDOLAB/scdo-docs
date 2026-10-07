@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+site:
+  title: SCDO Docs
+  structure:
+    - type: space
+      key: space-scdo-docs
+      title: SCDO Docs
+      path: scdolab
+      default: true
+      content:
+        directory: ./en
