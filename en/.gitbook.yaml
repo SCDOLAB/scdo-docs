@@ -7,5 +7,4 @@ structure:
 redirects:
   gpu-share/join: compute/gpu-share.md
   gpu-share/install: compute/gpu-share.md
-  gpu-share/faq: compute/gpu-share.md
   wallet/metamask-shard0: getting-started/metamask.md
